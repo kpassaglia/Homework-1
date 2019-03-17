@@ -3,4 +3,4 @@ Homework #1 - HTML/CSS/Positioning
 
 Styling notes:
 
-Did X becasue Y, from source Z
+I used flexbox for positioning and refrenced https://css-tricks.com/snippets/css/a-guide-to-flexbox/ for property help. 
